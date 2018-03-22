@@ -1,0 +1,22 @@
+img {
+    height: 200px;
+    width: 200px;
+};
+div {
+    padding: 10px;
+    border: 10px;
+};
+
+.row {
+    font-weight: bold;
+};
+#row {
+    font-weight: bold;
+    color: red; 
+
+};
+
+button {
+    padding: 10px;
+    border: 10px;
+}
